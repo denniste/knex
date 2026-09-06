@@ -146,7 +146,7 @@
     "oracledb": "^6.1.0",
     "pg": "^8.20.0",
     "pg-query-stream": "^4.14.0",
-    "prettier": "2.8.7",
+    "prettier": "3.9.6",
     "rimraf": "^5.0.5",
     "semver": "^7.7.4",
     "sinon": "^15.0.1",
